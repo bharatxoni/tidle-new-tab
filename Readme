@@ -1,0 +1,2 @@
+I found a cool start page code on reddit here it's repo https://github.com/cadejscroggins/tilde
+then I decided to make this as my new tab, so I downloaded code and made a manifest.json file and then add file in my browser but it was not running because this was single HTML file then I split CSS and JS file and start that again and it started working :)

@@ -1,0 +1,9 @@
+{
+	"manifest_version": 2,
+	"name": "Minimal New Tab",
+	"version": "1.4",
+	"description": "newtab",
+	"chrome_url_overrides" : {
+		"newtab": "index.html"
+	  }
+}
